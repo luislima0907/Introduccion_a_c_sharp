@@ -1,0 +1,14 @@
+C:\Users\ruben\OneDrive\Desktop\Finally\Finally\bin\Debug\net8.0\Finally.exe
+C:\Users\ruben\OneDrive\Desktop\Finally\Finally\bin\Debug\net8.0\Finally.deps.json
+C:\Users\ruben\OneDrive\Desktop\Finally\Finally\bin\Debug\net8.0\Finally.runtimeconfig.json
+C:\Users\ruben\OneDrive\Desktop\Finally\Finally\bin\Debug\net8.0\Finally.dll
+C:\Users\ruben\OneDrive\Desktop\Finally\Finally\bin\Debug\net8.0\Finally.pdb
+C:\Users\ruben\OneDrive\Desktop\Finally\Finally\obj\Debug\net8.0\Finally.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruben\OneDrive\Desktop\Finally\Finally\obj\Debug\net8.0\Finally.AssemblyInfoInputs.cache
+C:\Users\ruben\OneDrive\Desktop\Finally\Finally\obj\Debug\net8.0\Finally.AssemblyInfo.cs
+C:\Users\ruben\OneDrive\Desktop\Finally\Finally\obj\Debug\net8.0\Finally.csproj.CoreCompileInputs.cache
+C:\Users\ruben\OneDrive\Desktop\Finally\Finally\obj\Debug\net8.0\Finally.dll
+C:\Users\ruben\OneDrive\Desktop\Finally\Finally\obj\Debug\net8.0\refint\Finally.dll
+C:\Users\ruben\OneDrive\Desktop\Finally\Finally\obj\Debug\net8.0\Finally.pdb
+C:\Users\ruben\OneDrive\Desktop\Finally\Finally\obj\Debug\net8.0\Finally.genruntimeconfig.cache
+C:\Users\ruben\OneDrive\Desktop\Finally\Finally\obj\Debug\net8.0\ref\Finally.dll

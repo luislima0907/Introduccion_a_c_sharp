@@ -1,0 +1,4 @@
+C:\Users\ruben\OneDrive\Desktop\Switch\condicionalSwitch\obj\Debug\net8.0\condicionalSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruben\OneDrive\Desktop\Switch\condicionalSwitch\obj\Debug\net8.0\condicionalSwitch.AssemblyInfoInputs.cache
+C:\Users\ruben\OneDrive\Desktop\Switch\condicionalSwitch\obj\Debug\net8.0\condicionalSwitch.AssemblyInfo.cs
+C:\Users\ruben\OneDrive\Desktop\Switch\condicionalSwitch\obj\Debug\net8.0\condicionalSwitch.csproj.CoreCompileInputs.cache

@@ -1,0 +1,7 @@
+C:\Users\ruben\OneDrive\Desktop\Introduccion_a_C_sharp\Proyectos\pruebaTres\CondicionalIF\CondicionalIF\bin\Debug\CondicionalIF.exe.config
+C:\Users\ruben\OneDrive\Desktop\Introduccion_a_C_sharp\Proyectos\pruebaTres\CondicionalIF\CondicionalIF\bin\Debug\CondicionalIF.exe
+C:\Users\ruben\OneDrive\Desktop\Introduccion_a_C_sharp\Proyectos\pruebaTres\CondicionalIF\CondicionalIF\bin\Debug\CondicionalIF.pdb
+C:\Users\ruben\OneDrive\Desktop\Introduccion_a_C_sharp\Proyectos\pruebaTres\CondicionalIF\CondicionalIF\obj\Debug\CondicionalIF.csproj.AssemblyReference.cache
+C:\Users\ruben\OneDrive\Desktop\Introduccion_a_C_sharp\Proyectos\pruebaTres\CondicionalIF\CondicionalIF\obj\Debug\CondicionalIF.csproj.CoreCompileInputs.cache
+C:\Users\ruben\OneDrive\Desktop\Introduccion_a_C_sharp\Proyectos\pruebaTres\CondicionalIF\CondicionalIF\obj\Debug\CondicionalIF.exe
+C:\Users\ruben\OneDrive\Desktop\Introduccion_a_C_sharp\Proyectos\pruebaTres\CondicionalIF\CondicionalIF\obj\Debug\CondicionalIF.pdb

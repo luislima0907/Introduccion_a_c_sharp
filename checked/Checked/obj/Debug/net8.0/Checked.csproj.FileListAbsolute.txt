@@ -1,0 +1,14 @@
+C:\Users\ruben\OneDrive\Desktop\checked\Checked\bin\Debug\net8.0\Checked.exe
+C:\Users\ruben\OneDrive\Desktop\checked\Checked\bin\Debug\net8.0\Checked.deps.json
+C:\Users\ruben\OneDrive\Desktop\checked\Checked\bin\Debug\net8.0\Checked.runtimeconfig.json
+C:\Users\ruben\OneDrive\Desktop\checked\Checked\bin\Debug\net8.0\Checked.dll
+C:\Users\ruben\OneDrive\Desktop\checked\Checked\bin\Debug\net8.0\Checked.pdb
+C:\Users\ruben\OneDrive\Desktop\checked\Checked\obj\Debug\net8.0\Checked.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruben\OneDrive\Desktop\checked\Checked\obj\Debug\net8.0\Checked.AssemblyInfoInputs.cache
+C:\Users\ruben\OneDrive\Desktop\checked\Checked\obj\Debug\net8.0\Checked.AssemblyInfo.cs
+C:\Users\ruben\OneDrive\Desktop\checked\Checked\obj\Debug\net8.0\Checked.csproj.CoreCompileInputs.cache
+C:\Users\ruben\OneDrive\Desktop\checked\Checked\obj\Debug\net8.0\Checked.dll
+C:\Users\ruben\OneDrive\Desktop\checked\Checked\obj\Debug\net8.0\refint\Checked.dll
+C:\Users\ruben\OneDrive\Desktop\checked\Checked\obj\Debug\net8.0\Checked.pdb
+C:\Users\ruben\OneDrive\Desktop\checked\Checked\obj\Debug\net8.0\Checked.genruntimeconfig.cache
+C:\Users\ruben\OneDrive\Desktop\checked\Checked\obj\Debug\net8.0\ref\Checked.dll

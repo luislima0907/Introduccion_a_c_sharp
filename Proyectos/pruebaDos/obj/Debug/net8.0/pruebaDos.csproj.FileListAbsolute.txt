@@ -1,0 +1,28 @@
+C:\Users\ruben\OneDrive\Desktop\Introduccion a C sharp\proyectos\pruebaDos\obj\Debug\net8.0\pruebaDos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruben\OneDrive\Desktop\Introduccion a C sharp\proyectos\pruebaDos\obj\Debug\net8.0\pruebaDos.AssemblyInfoInputs.cache
+C:\Users\ruben\OneDrive\Desktop\Introduccion a C sharp\proyectos\pruebaDos\obj\Debug\net8.0\pruebaDos.AssemblyInfo.cs
+C:\Users\ruben\OneDrive\Desktop\Introduccion a C sharp\proyectos\pruebaDos\obj\Debug\net8.0\pruebaDos.csproj.CoreCompileInputs.cache
+C:\Users\ruben\OneDrive\Desktop\Introduccion a C sharp\proyectos\pruebaDos\bin\Debug\net8.0\pruebaDos.exe
+C:\Users\ruben\OneDrive\Desktop\Introduccion a C sharp\proyectos\pruebaDos\bin\Debug\net8.0\pruebaDos.deps.json
+C:\Users\ruben\OneDrive\Desktop\Introduccion a C sharp\proyectos\pruebaDos\bin\Debug\net8.0\pruebaDos.runtimeconfig.json
+C:\Users\ruben\OneDrive\Desktop\Introduccion a C sharp\proyectos\pruebaDos\bin\Debug\net8.0\pruebaDos.dll
+C:\Users\ruben\OneDrive\Desktop\Introduccion a C sharp\proyectos\pruebaDos\bin\Debug\net8.0\pruebaDos.pdb
+C:\Users\ruben\OneDrive\Desktop\Introduccion a C sharp\proyectos\pruebaDos\obj\Debug\net8.0\pruebaDos.dll
+C:\Users\ruben\OneDrive\Desktop\Introduccion a C sharp\proyectos\pruebaDos\obj\Debug\net8.0\refint\pruebaDos.dll
+C:\Users\ruben\OneDrive\Desktop\Introduccion a C sharp\proyectos\pruebaDos\obj\Debug\net8.0\pruebaDos.pdb
+C:\Users\ruben\OneDrive\Desktop\Introduccion a C sharp\proyectos\pruebaDos\obj\Debug\net8.0\pruebaDos.genruntimeconfig.cache
+C:\Users\ruben\OneDrive\Desktop\Introduccion a C sharp\proyectos\pruebaDos\obj\Debug\net8.0\ref\pruebaDos.dll
+C:\Users\ruben\OneDrive\Desktop\Introduccion_a_C_sharp\Proyectos\pruebaDos\bin\Debug\net8.0\pruebaDos.exe
+C:\Users\ruben\OneDrive\Desktop\Introduccion_a_C_sharp\Proyectos\pruebaDos\bin\Debug\net8.0\pruebaDos.deps.json
+C:\Users\ruben\OneDrive\Desktop\Introduccion_a_C_sharp\Proyectos\pruebaDos\bin\Debug\net8.0\pruebaDos.runtimeconfig.json
+C:\Users\ruben\OneDrive\Desktop\Introduccion_a_C_sharp\Proyectos\pruebaDos\bin\Debug\net8.0\pruebaDos.dll
+C:\Users\ruben\OneDrive\Desktop\Introduccion_a_C_sharp\Proyectos\pruebaDos\bin\Debug\net8.0\pruebaDos.pdb
+C:\Users\ruben\OneDrive\Desktop\Introduccion_a_C_sharp\Proyectos\pruebaDos\obj\Debug\net8.0\pruebaDos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruben\OneDrive\Desktop\Introduccion_a_C_sharp\Proyectos\pruebaDos\obj\Debug\net8.0\pruebaDos.AssemblyInfoInputs.cache
+C:\Users\ruben\OneDrive\Desktop\Introduccion_a_C_sharp\Proyectos\pruebaDos\obj\Debug\net8.0\pruebaDos.AssemblyInfo.cs
+C:\Users\ruben\OneDrive\Desktop\Introduccion_a_C_sharp\Proyectos\pruebaDos\obj\Debug\net8.0\pruebaDos.csproj.CoreCompileInputs.cache
+C:\Users\ruben\OneDrive\Desktop\Introduccion_a_C_sharp\Proyectos\pruebaDos\obj\Debug\net8.0\pruebaDos.dll
+C:\Users\ruben\OneDrive\Desktop\Introduccion_a_C_sharp\Proyectos\pruebaDos\obj\Debug\net8.0\refint\pruebaDos.dll
+C:\Users\ruben\OneDrive\Desktop\Introduccion_a_C_sharp\Proyectos\pruebaDos\obj\Debug\net8.0\pruebaDos.pdb
+C:\Users\ruben\OneDrive\Desktop\Introduccion_a_C_sharp\Proyectos\pruebaDos\obj\Debug\net8.0\pruebaDos.genruntimeconfig.cache
+C:\Users\ruben\OneDrive\Desktop\Introduccion_a_C_sharp\Proyectos\pruebaDos\obj\Debug\net8.0\ref\pruebaDos.dll

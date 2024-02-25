@@ -1,0 +1,14 @@
+C:\Users\ruben\OneDrive\Desktop\CondicionalIF\pruebaTres\bin\Debug\net8.0\pruebaTres.exe
+C:\Users\ruben\OneDrive\Desktop\CondicionalIF\pruebaTres\bin\Debug\net8.0\pruebaTres.deps.json
+C:\Users\ruben\OneDrive\Desktop\CondicionalIF\pruebaTres\bin\Debug\net8.0\pruebaTres.runtimeconfig.json
+C:\Users\ruben\OneDrive\Desktop\CondicionalIF\pruebaTres\bin\Debug\net8.0\pruebaTres.dll
+C:\Users\ruben\OneDrive\Desktop\CondicionalIF\pruebaTres\bin\Debug\net8.0\pruebaTres.pdb
+C:\Users\ruben\OneDrive\Desktop\CondicionalIF\pruebaTres\obj\Debug\net8.0\pruebaTres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruben\OneDrive\Desktop\CondicionalIF\pruebaTres\obj\Debug\net8.0\pruebaTres.AssemblyInfoInputs.cache
+C:\Users\ruben\OneDrive\Desktop\CondicionalIF\pruebaTres\obj\Debug\net8.0\pruebaTres.AssemblyInfo.cs
+C:\Users\ruben\OneDrive\Desktop\CondicionalIF\pruebaTres\obj\Debug\net8.0\pruebaTres.csproj.CoreCompileInputs.cache
+C:\Users\ruben\OneDrive\Desktop\CondicionalIF\pruebaTres\obj\Debug\net8.0\pruebaTres.dll
+C:\Users\ruben\OneDrive\Desktop\CondicionalIF\pruebaTres\obj\Debug\net8.0\refint\pruebaTres.dll
+C:\Users\ruben\OneDrive\Desktop\CondicionalIF\pruebaTres\obj\Debug\net8.0\pruebaTres.pdb
+C:\Users\ruben\OneDrive\Desktop\CondicionalIF\pruebaTres\obj\Debug\net8.0\pruebaTres.genruntimeconfig.cache
+C:\Users\ruben\OneDrive\Desktop\CondicionalIF\pruebaTres\obj\Debug\net8.0\ref\pruebaTres.dll
