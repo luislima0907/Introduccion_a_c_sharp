@@ -1,0 +1,14 @@
+C:\Users\ruben\OneDrive\Desktop\POO\PracticaPOOCSharp\bin\Debug\net8.0\PracticaPOOCSharp.exe
+C:\Users\ruben\OneDrive\Desktop\POO\PracticaPOOCSharp\bin\Debug\net8.0\PracticaPOOCSharp.deps.json
+C:\Users\ruben\OneDrive\Desktop\POO\PracticaPOOCSharp\bin\Debug\net8.0\PracticaPOOCSharp.runtimeconfig.json
+C:\Users\ruben\OneDrive\Desktop\POO\PracticaPOOCSharp\bin\Debug\net8.0\PracticaPOOCSharp.dll
+C:\Users\ruben\OneDrive\Desktop\POO\PracticaPOOCSharp\bin\Debug\net8.0\PracticaPOOCSharp.pdb
+C:\Users\ruben\OneDrive\Desktop\POO\PracticaPOOCSharp\obj\Debug\net8.0\PracticaPOOCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruben\OneDrive\Desktop\POO\PracticaPOOCSharp\obj\Debug\net8.0\PracticaPOOCSharp.AssemblyInfoInputs.cache
+C:\Users\ruben\OneDrive\Desktop\POO\PracticaPOOCSharp\obj\Debug\net8.0\PracticaPOOCSharp.AssemblyInfo.cs
+C:\Users\ruben\OneDrive\Desktop\POO\PracticaPOOCSharp\obj\Debug\net8.0\PracticaPOOCSharp.csproj.CoreCompileInputs.cache
+C:\Users\ruben\OneDrive\Desktop\POO\PracticaPOOCSharp\obj\Debug\net8.0\PracticaPOOCSharp.dll
+C:\Users\ruben\OneDrive\Desktop\POO\PracticaPOOCSharp\obj\Debug\net8.0\refint\PracticaPOOCSharp.dll
+C:\Users\ruben\OneDrive\Desktop\POO\PracticaPOOCSharp\obj\Debug\net8.0\PracticaPOOCSharp.pdb
+C:\Users\ruben\OneDrive\Desktop\POO\PracticaPOOCSharp\obj\Debug\net8.0\PracticaPOOCSharp.genruntimeconfig.cache
+C:\Users\ruben\OneDrive\Desktop\POO\PracticaPOOCSharp\obj\Debug\net8.0\ref\PracticaPOOCSharp.dll

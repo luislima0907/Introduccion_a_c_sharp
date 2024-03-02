@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ruben\\OneDrive\\Desktop\\POO\\PracticaPOOCSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB631BA-8712-4B91-ABE2-8879DAC34711}|PracticaPOOCSharp.csproj|c:\\users\\ruben\\onedrive\\desktop\\poo\\practicapoocsharp\\leon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEB631BA-8712-4B91-ABE2-8879DAC34711}|PracticaPOOCSharp.csproj|solutionrelative:leon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB631BA-8712-4B91-ABE2-8879DAC34711}|PracticaPOOCSharp.csproj|c:\\users\\ruben\\onedrive\\desktop\\poo\\practicapoocsharp\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEB631BA-8712-4B91-ABE2-8879DAC34711}|PracticaPOOCSharp.csproj|solutionrelative:animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB631BA-8712-4B91-ABE2-8879DAC34711}|PracticaPOOCSharp.csproj|c:\\users\\ruben\\onedrive\\desktop\\poo\\practicapoocsharp\\buitre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEB631BA-8712-4B91-ABE2-8879DAC34711}|PracticaPOOCSharp.csproj|solutionrelative:buitre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB631BA-8712-4B91-ABE2-8879DAC34711}|PracticaPOOCSharp.csproj|c:\\users\\ruben\\onedrive\\desktop\\poo\\practicapoocsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEB631BA-8712-4B91-ABE2-8879DAC34711}|PracticaPOOCSharp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB631BA-8712-4B91-ABE2-8879DAC34711}|PracticaPOOCSharp.csproj|c:\\users\\ruben\\onedrive\\desktop\\poo\\practicapoocsharp\\carnivoro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEB631BA-8712-4B91-ABE2-8879DAC34711}|PracticaPOOCSharp.csproj|solutionrelative:carnivoro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "buitre.cs",
+              "DocumentMoniker": "C:\\Users\\ruben\\OneDrive\\Desktop\\POO\\PracticaPOOCSharp\\buitre.cs",
+              "RelativeDocumentMoniker": "buitre.cs",
+              "ToolTip": "C:\\Users\\ruben\\OneDrive\\Desktop\\POO\\PracticaPOOCSharp\\buitre.cs",
+              "RelativeToolTip": "buitre.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAwBIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T21:49:28.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Leon.cs",
+              "DocumentMoniker": "C:\\Users\\ruben\\OneDrive\\Desktop\\POO\\PracticaPOOCSharp\\Leon.cs",
+              "RelativeDocumentMoniker": "Leon.cs",
+              "ToolTip": "C:\\Users\\ruben\\OneDrive\\Desktop\\POO\\PracticaPOOCSharp\\Leon.cs",
+              "RelativeToolTip": "Leon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T21:41:53.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "carnivoro.cs",
+              "DocumentMoniker": "C:\\Users\\ruben\\OneDrive\\Desktop\\POO\\PracticaPOOCSharp\\carnivoro.cs",
+              "RelativeDocumentMoniker": "carnivoro.cs",
+              "ToolTip": "C:\\Users\\ruben\\OneDrive\\Desktop\\POO\\PracticaPOOCSharp\\carnivoro.cs",
+              "RelativeToolTip": "carnivoro.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAA8AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T21:40:39.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\ruben\\OneDrive\\Desktop\\POO\\PracticaPOOCSharp\\Animal.cs",
+              "RelativeDocumentMoniker": "Animal.cs",
+              "ToolTip": "C:\\Users\\ruben\\OneDrive\\Desktop\\POO\\PracticaPOOCSharp\\Animal.cs",
+              "RelativeToolTip": "Animal.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T21:36:22.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ruben\\OneDrive\\Desktop\\POO\\PracticaPOOCSharp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ruben\\OneDrive\\Desktop\\POO\\PracticaPOOCSharp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAuwBgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T21:15:31.045Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
