@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = pruebaDos
-build_property.ProjectDir = C:\Users\ruben\OneDrive\Desktop\Introduccion a C sharp\Proyectos\pruebaDos\
+build_property.ProjectDir = C:\Users\ruben\OneDrive\Desktop\Introduccion_a_C_sharp\Proyectos\pruebaDos\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

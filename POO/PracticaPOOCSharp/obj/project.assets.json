@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ruben\\OneDrive\\Desktop\\POO\\PracticaPOOCSharp\\PracticaPOOCSharp.csproj",
+      "projectUniqueName": "C:\\Users\\ruben\\OneDrive\\Desktop\\Introduccion_a_C_sharp\\POO\\PracticaPOOCSharp\\PracticaPOOCSharp.csproj",
       "projectName": "PracticaPOOCSharp",
-      "projectPath": "C:\\Users\\ruben\\OneDrive\\Desktop\\POO\\PracticaPOOCSharp\\PracticaPOOCSharp.csproj",
+      "projectPath": "C:\\Users\\ruben\\OneDrive\\Desktop\\Introduccion_a_C_sharp\\POO\\PracticaPOOCSharp\\PracticaPOOCSharp.csproj",
       "packagesPath": "C:\\Users\\ruben\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ruben\\OneDrive\\Desktop\\POO\\PracticaPOOCSharp\\obj\\",
+      "outputPath": "C:\\Users\\ruben\\OneDrive\\Desktop\\Introduccion_a_C_sharp\\POO\\PracticaPOOCSharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ruben\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,7 @@
+C:\Users\ruben\OneDrive\Desktop\Programacion_Orientada_A_Objetos\EjemplosPOO\bin\Debug\EjemplosPOO.exe.config
+C:\Users\ruben\OneDrive\Desktop\Programacion_Orientada_A_Objetos\EjemplosPOO\bin\Debug\EjemplosPOO.exe
+C:\Users\ruben\OneDrive\Desktop\Programacion_Orientada_A_Objetos\EjemplosPOO\bin\Debug\EjemplosPOO.pdb
+C:\Users\ruben\OneDrive\Desktop\Programacion_Orientada_A_Objetos\EjemplosPOO\obj\Debug\EjemplosPOO.csproj.AssemblyReference.cache
+C:\Users\ruben\OneDrive\Desktop\Programacion_Orientada_A_Objetos\EjemplosPOO\obj\Debug\EjemplosPOO.csproj.CoreCompileInputs.cache
+C:\Users\ruben\OneDrive\Desktop\Programacion_Orientada_A_Objetos\EjemplosPOO\obj\Debug\EjemplosPOO.exe
+C:\Users\ruben\OneDrive\Desktop\Programacion_Orientada_A_Objetos\EjemplosPOO\obj\Debug\EjemplosPOO.pdb

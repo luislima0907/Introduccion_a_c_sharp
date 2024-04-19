@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Checked")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+122cfe8b73b198b97bd1cd9cba1b50b17f373c9e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Checked")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Checked")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
