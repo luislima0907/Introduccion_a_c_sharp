@@ -1,0 +1,7 @@
+C:\Users\ruben\OneDrive\Desktop\Interfaces\PracticaDeInterfaces\bin\Debug\PracticaDeInterfaces.exe.config
+C:\Users\ruben\OneDrive\Desktop\Interfaces\PracticaDeInterfaces\bin\Debug\PracticaDeInterfaces.exe
+C:\Users\ruben\OneDrive\Desktop\Interfaces\PracticaDeInterfaces\bin\Debug\PracticaDeInterfaces.pdb
+C:\Users\ruben\OneDrive\Desktop\Interfaces\PracticaDeInterfaces\obj\Debug\PracticaDeInterfaces.csproj.AssemblyReference.cache
+C:\Users\ruben\OneDrive\Desktop\Interfaces\PracticaDeInterfaces\obj\Debug\PracticaDeInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\ruben\OneDrive\Desktop\Interfaces\PracticaDeInterfaces\obj\Debug\PracticaDeInterfaces.exe
+C:\Users\ruben\OneDrive\Desktop\Interfaces\PracticaDeInterfaces\obj\Debug\PracticaDeInterfaces.pdb

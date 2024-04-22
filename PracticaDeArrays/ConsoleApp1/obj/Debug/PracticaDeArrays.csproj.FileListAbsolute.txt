@@ -1,0 +1,7 @@
+C:\Users\ruben\OneDrive\Desktop\PracticaDeArrays\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\ruben\OneDrive\Desktop\PracticaDeArrays\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\ruben\OneDrive\Desktop\PracticaDeArrays\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\ruben\OneDrive\Desktop\PracticaDeArrays\ConsoleApp1\obj\Debug\PracticaDeArrays.csproj.AssemblyReference.cache
+C:\Users\ruben\OneDrive\Desktop\PracticaDeArrays\ConsoleApp1\obj\Debug\PracticaDeArrays.csproj.CoreCompileInputs.cache
+C:\Users\ruben\OneDrive\Desktop\PracticaDeArrays\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\ruben\OneDrive\Desktop\PracticaDeArrays\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
