@@ -1,0 +1,7 @@
+C:\Users\ruben\OneDrive\Desktop\Structs\Structs\bin\Debug\Structs.exe.config
+C:\Users\ruben\OneDrive\Desktop\Structs\Structs\bin\Debug\Structs.exe
+C:\Users\ruben\OneDrive\Desktop\Structs\Structs\bin\Debug\Structs.pdb
+C:\Users\ruben\OneDrive\Desktop\Structs\Structs\obj\Debug\Structs.csproj.AssemblyReference.cache
+C:\Users\ruben\OneDrive\Desktop\Structs\Structs\obj\Debug\Structs.csproj.CoreCompileInputs.cache
+C:\Users\ruben\OneDrive\Desktop\Structs\Structs\obj\Debug\Structs.exe
+C:\Users\ruben\OneDrive\Desktop\Structs\Structs\obj\Debug\Structs.pdb

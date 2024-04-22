@@ -58,7 +58,7 @@ namespace HerenciaEnPOO
 
             miBabieca.CuidarCrias();
 
-            miHumano.GetNombreDelSerVivo();
+            //miHumano.GetNombreDelSerVivo();
 
             Carro miCarro = new Carro("Honda", "Rayo");
 
@@ -76,6 +76,14 @@ namespace HerenciaEnPOO
             miVehiculo = miAvion;
 
             miVehiculo.ConducirElVehiculo();
+
+            Lagartija miLagartija = new Lagartija("Juan");
+            miLagartija.Respirar();
+            miLagartija.GetNombre();
+
+            Humano miHumanoDos = new Humano("Marco");
+            miHumanoDos.Respirar();
+            miHumanoDos.GetNombre();
         }
     }
 
@@ -103,9 +111,40 @@ namespace HerenciaEnPOO
         int NumeroPatas();
     }
 
+    // esta es una clase abstracta, va por encima del nivel de la jerarquia
+    // de las clases al momento de heredar, y tiene como minimo un metodo abstracto
+    abstract class Animales
+    {
+        public void Respirar()
+        {
+            Console.WriteLine("Soy capaz de respirar");
+        }
+
+        // esto es un metodo abstracto, sirven para que las clases abtractas
+        // al momento de heredar, la clase que recibio esa heredacion
+        // tenga que crear el metodo que declaramos como abstracto
+        public abstract void GetNombre();
+
+    }
+
+    class Lagartija : Animales
+    {
+        private string nombreDelReptil;
+
+        public Lagartija(string nombreDelReptil)
+        {
+            this.nombreDelReptil = nombreDelReptil;
+        }
+        public override void GetNombre()
+        {
+            Console.WriteLine($"El nombre del reptil es: {nombreDelReptil}");
+            //throw new NotImplementedException();
+        }
+    }
+
     // la clase supercosmica en todas las clases padres que hagamos
     // junto con las otras clases que creamos, siempre la clase superior sera object
-    class Mamiferos : Object
+    class Mamiferos : Animales // : Object
     {
         private string nombreDelSerVivo;
 
@@ -120,17 +159,19 @@ namespace HerenciaEnPOO
         {
             Console.WriteLine("Pensamiento basico");
         }
-        public void GetNombreDelSerVivo()
+
+        // sobreescribimos el metodo abstracto de la clase abtractos
+        public override void GetNombre()
         {
             Console.WriteLine($"El nombre del ser vivo es: {nombreDelSerVivo}");
         }
 
         // protected lo que hace es que todas las clases que heredan de la superclase
         // puedan usar el metodo o campo de clase, pero no podemos usarlo en una clase que no este heredada
-        protected void Respirar() 
-        {
-            Console.WriteLine("soy capaz de respirar");
-        }
+        //protected void Respirar() 
+        //{
+        //    Console.WriteLine("soy capaz de respirar");
+        //}
 
         public void CuidarCrias()
         {
@@ -197,6 +238,24 @@ namespace HerenciaEnPOO
         }
     }
 
+    class Adolescente : Humano
+    {
+        public Adolescente(string nombreDelAdolescente) : base(nombreDelAdolescente)
+        {
+
+        }
+
+        // un metodo sellado nos impide poder usarlo al momento
+        // en el que heredemos esta clase
+        public sealed override void Pensar()
+        {
+            Console.WriteLine("Las hormonas me impiden pensar");
+        }
+
+    }
+
+    // podemos sellar una clase con la palabra reservada sealed
+    // con esto hacemos que la clase no pueda heredar sus metodos y atrebutos
     class Gorila : Mamiferos, IMamiferosTerrestres
     {
         public Gorila(string nombreDelGorila) : base(nombreDelGorila)
@@ -221,6 +280,14 @@ namespace HerenciaEnPOO
         public override void Pensar()
         {
             Console.WriteLine("pensamiento de instinto gorila");
+        }
+    }
+
+    class Chimpance : Gorila
+    {
+        public Chimpance(string nombreDelChimpance) : base(nombreDelChimpance)
+        {
+
         }
     }
 

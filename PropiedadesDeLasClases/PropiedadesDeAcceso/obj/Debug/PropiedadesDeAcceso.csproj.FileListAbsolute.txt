@@ -1,0 +1,7 @@
+C:\Users\ruben\OneDrive\Desktop\PropiedadesDeLasClases\PropiedadesDeAcceso\bin\Debug\PropiedadesDeAcceso.exe.config
+C:\Users\ruben\OneDrive\Desktop\PropiedadesDeLasClases\PropiedadesDeAcceso\bin\Debug\PropiedadesDeAcceso.exe
+C:\Users\ruben\OneDrive\Desktop\PropiedadesDeLasClases\PropiedadesDeAcceso\bin\Debug\PropiedadesDeAcceso.pdb
+C:\Users\ruben\OneDrive\Desktop\PropiedadesDeLasClases\PropiedadesDeAcceso\obj\Debug\PropiedadesDeAcceso.csproj.AssemblyReference.cache
+C:\Users\ruben\OneDrive\Desktop\PropiedadesDeLasClases\PropiedadesDeAcceso\obj\Debug\PropiedadesDeAcceso.csproj.CoreCompileInputs.cache
+C:\Users\ruben\OneDrive\Desktop\PropiedadesDeLasClases\PropiedadesDeAcceso\obj\Debug\PropiedadesDeAcceso.exe
+C:\Users\ruben\OneDrive\Desktop\PropiedadesDeLasClases\PropiedadesDeAcceso\obj\Debug\PropiedadesDeAcceso.pdb

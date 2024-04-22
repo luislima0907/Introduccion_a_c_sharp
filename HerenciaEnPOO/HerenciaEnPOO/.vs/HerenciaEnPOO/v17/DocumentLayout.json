@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ruben\\OneDrive\\Desktop\\HerenciaEnPOO\\HerenciaEnPOO\\",
+  "WorkspaceRootPath": "C:\\Users\\ruben\\OneDrive\\Desktop\\Introduccion_a_C_sharp\\HerenciaEnPOO\\HerenciaEnPOO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2B045E82-1917-4766-9C73-FFE956FB8412}|HerenciaEnPOO.csproj|c:\\users\\ruben\\onedrive\\desktop\\herenciaenpoo\\herenciaenpoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2B045E82-1917-4766-9C73-FFE956FB8412}|HerenciaEnPOO.csproj|c:\\users\\ruben\\onedrive\\desktop\\introduccion_a_c_sharp\\herenciaenpoo\\herenciaenpoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B045E82-1917-4766-9C73-FFE956FB8412}|HerenciaEnPOO.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ruben\\OneDrive\\Desktop\\HerenciaEnPOO\\HerenciaEnPOO\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ruben\\OneDrive\\Desktop\\Introduccion_a_C_sharp\\HerenciaEnPOO\\HerenciaEnPOO\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\ruben\\OneDrive\\Desktop\\HerenciaEnPOO\\HerenciaEnPOO\\Program.cs",
+              "ToolTip": "C:\\Users\\ruben\\OneDrive\\Desktop\\Introduccion_a_C_sharp\\HerenciaEnPOO\\HerenciaEnPOO\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAawDMAAAANAAAA",
+              "ViewState": "AQIAAPMAAAAAAAAAAAAAwPoAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-21T20:00:00.38Z",
               "EditorCaption": ""

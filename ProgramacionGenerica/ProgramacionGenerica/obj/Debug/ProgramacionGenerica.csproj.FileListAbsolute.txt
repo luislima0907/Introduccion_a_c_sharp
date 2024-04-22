@@ -1,0 +1,7 @@
+C:\Users\ruben\OneDrive\Desktop\ProgramacionGenerica\ProgramacionGenerica\bin\Debug\ProgramacionGenerica.exe.config
+C:\Users\ruben\OneDrive\Desktop\ProgramacionGenerica\ProgramacionGenerica\bin\Debug\ProgramacionGenerica.exe
+C:\Users\ruben\OneDrive\Desktop\ProgramacionGenerica\ProgramacionGenerica\bin\Debug\ProgramacionGenerica.pdb
+C:\Users\ruben\OneDrive\Desktop\ProgramacionGenerica\ProgramacionGenerica\obj\Debug\ProgramacionGenerica.csproj.AssemblyReference.cache
+C:\Users\ruben\OneDrive\Desktop\ProgramacionGenerica\ProgramacionGenerica\obj\Debug\ProgramacionGenerica.csproj.CoreCompileInputs.cache
+C:\Users\ruben\OneDrive\Desktop\ProgramacionGenerica\ProgramacionGenerica\obj\Debug\ProgramacionGenerica.exe
+C:\Users\ruben\OneDrive\Desktop\ProgramacionGenerica\ProgramacionGenerica\obj\Debug\ProgramacionGenerica.pdb

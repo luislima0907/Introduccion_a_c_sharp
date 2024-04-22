@@ -5,3 +5,10 @@ C:\Users\ruben\OneDrive\Desktop\HerenciaEnPOO\HerenciaEnPOO\obj\Debug\HerenciaEn
 C:\Users\ruben\OneDrive\Desktop\HerenciaEnPOO\HerenciaEnPOO\obj\Debug\HerenciaEnPOO.csproj.CoreCompileInputs.cache
 C:\Users\ruben\OneDrive\Desktop\HerenciaEnPOO\HerenciaEnPOO\obj\Debug\HerenciaEnPOO.exe
 C:\Users\ruben\OneDrive\Desktop\HerenciaEnPOO\HerenciaEnPOO\obj\Debug\HerenciaEnPOO.pdb
+C:\Users\ruben\OneDrive\Desktop\Introduccion_a_C_sharp\HerenciaEnPOO\HerenciaEnPOO\bin\Debug\HerenciaEnPOO.exe.config
+C:\Users\ruben\OneDrive\Desktop\Introduccion_a_C_sharp\HerenciaEnPOO\HerenciaEnPOO\bin\Debug\HerenciaEnPOO.exe
+C:\Users\ruben\OneDrive\Desktop\Introduccion_a_C_sharp\HerenciaEnPOO\HerenciaEnPOO\bin\Debug\HerenciaEnPOO.pdb
+C:\Users\ruben\OneDrive\Desktop\Introduccion_a_C_sharp\HerenciaEnPOO\HerenciaEnPOO\obj\Debug\HerenciaEnPOO.csproj.AssemblyReference.cache
+C:\Users\ruben\OneDrive\Desktop\Introduccion_a_C_sharp\HerenciaEnPOO\HerenciaEnPOO\obj\Debug\HerenciaEnPOO.csproj.CoreCompileInputs.cache
+C:\Users\ruben\OneDrive\Desktop\Introduccion_a_C_sharp\HerenciaEnPOO\HerenciaEnPOO\obj\Debug\HerenciaEnPOO.exe
+C:\Users\ruben\OneDrive\Desktop\Introduccion_a_C_sharp\HerenciaEnPOO\HerenciaEnPOO\obj\Debug\HerenciaEnPOO.pdb

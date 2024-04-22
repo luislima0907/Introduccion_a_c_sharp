@@ -1,0 +1,7 @@
+C:\Users\ruben\OneDrive\Desktop\Destructores\Destructores\bin\Debug\Destructores.exe.config
+C:\Users\ruben\OneDrive\Desktop\Destructores\Destructores\bin\Debug\Destructores.exe
+C:\Users\ruben\OneDrive\Desktop\Destructores\Destructores\bin\Debug\Destructores.pdb
+C:\Users\ruben\OneDrive\Desktop\Destructores\Destructores\obj\Debug\Destructores.csproj.AssemblyReference.cache
+C:\Users\ruben\OneDrive\Desktop\Destructores\Destructores\obj\Debug\Destructores.csproj.CoreCompileInputs.cache
+C:\Users\ruben\OneDrive\Desktop\Destructores\Destructores\obj\Debug\Destructores.exe
+C:\Users\ruben\OneDrive\Desktop\Destructores\Destructores\obj\Debug\Destructores.pdb

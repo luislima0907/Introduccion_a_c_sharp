@@ -1,0 +1,7 @@
+C:\Users\ruben\OneDrive\Desktop\Structs_Y_Enums\Structs_Y_Enums\bin\Debug\Structs_Y_Enums.exe.config
+C:\Users\ruben\OneDrive\Desktop\Structs_Y_Enums\Structs_Y_Enums\bin\Debug\Structs_Y_Enums.exe
+C:\Users\ruben\OneDrive\Desktop\Structs_Y_Enums\Structs_Y_Enums\bin\Debug\Structs_Y_Enums.pdb
+C:\Users\ruben\OneDrive\Desktop\Structs_Y_Enums\Structs_Y_Enums\obj\Debug\Structs_Y_Enums.csproj.AssemblyReference.cache
+C:\Users\ruben\OneDrive\Desktop\Structs_Y_Enums\Structs_Y_Enums\obj\Debug\Structs_Y_Enums.csproj.CoreCompileInputs.cache
+C:\Users\ruben\OneDrive\Desktop\Structs_Y_Enums\Structs_Y_Enums\obj\Debug\Structs_Y_Enums.exe
+C:\Users\ruben\OneDrive\Desktop\Structs_Y_Enums\Structs_Y_Enums\obj\Debug\Structs_Y_Enums.pdb
