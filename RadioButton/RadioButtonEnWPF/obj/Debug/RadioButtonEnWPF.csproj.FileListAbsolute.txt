@@ -1,0 +1,15 @@
+C:\Users\ruben\OneDrive\Desktop\RadioButton\RadioButtonEnWPF\bin\Debug\RadioButtonEnWPF.exe.config
+C:\Users\ruben\OneDrive\Desktop\RadioButton\RadioButtonEnWPF\bin\Debug\RadioButtonEnWPF.exe
+C:\Users\ruben\OneDrive\Desktop\RadioButton\RadioButtonEnWPF\bin\Debug\RadioButtonEnWPF.pdb
+C:\Users\ruben\OneDrive\Desktop\RadioButton\RadioButtonEnWPF\obj\Debug\RadioButtonEnWPF.csproj.AssemblyReference.cache
+C:\Users\ruben\OneDrive\Desktop\RadioButton\RadioButtonEnWPF\obj\Debug\MainWindow.g.cs
+C:\Users\ruben\OneDrive\Desktop\RadioButton\RadioButtonEnWPF\obj\Debug\App.g.cs
+C:\Users\ruben\OneDrive\Desktop\RadioButton\RadioButtonEnWPF\obj\Debug\RadioButtonEnWPF_MarkupCompile.cache
+C:\Users\ruben\OneDrive\Desktop\RadioButton\RadioButtonEnWPF\obj\Debug\RadioButtonEnWPF_MarkupCompile.lref
+C:\Users\ruben\OneDrive\Desktop\RadioButton\RadioButtonEnWPF\obj\Debug\MainWindow.baml
+C:\Users\ruben\OneDrive\Desktop\RadioButton\RadioButtonEnWPF\obj\Debug\RadioButtonEnWPF.g.resources
+C:\Users\ruben\OneDrive\Desktop\RadioButton\RadioButtonEnWPF\obj\Debug\RadioButtonEnWPF.Properties.Resources.resources
+C:\Users\ruben\OneDrive\Desktop\RadioButton\RadioButtonEnWPF\obj\Debug\RadioButtonEnWPF.csproj.GenerateResource.cache
+C:\Users\ruben\OneDrive\Desktop\RadioButton\RadioButtonEnWPF\obj\Debug\RadioButtonEnWPF.csproj.CoreCompileInputs.cache
+C:\Users\ruben\OneDrive\Desktop\RadioButton\RadioButtonEnWPF\obj\Debug\RadioButtonEnWPF.exe
+C:\Users\ruben\OneDrive\Desktop\RadioButton\RadioButtonEnWPF\obj\Debug\RadioButtonEnWPF.pdb

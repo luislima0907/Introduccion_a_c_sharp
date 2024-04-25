@@ -1,0 +1,7 @@
+C:\Users\ruben\OneDrive\Desktop\ExpresionesRegulares\ExpresionesRegulares\bin\Debug\ExpresionesRegulares.exe.config
+C:\Users\ruben\OneDrive\Desktop\ExpresionesRegulares\ExpresionesRegulares\bin\Debug\ExpresionesRegulares.exe
+C:\Users\ruben\OneDrive\Desktop\ExpresionesRegulares\ExpresionesRegulares\bin\Debug\ExpresionesRegulares.pdb
+C:\Users\ruben\OneDrive\Desktop\ExpresionesRegulares\ExpresionesRegulares\obj\Debug\ExpresionesRegulares.csproj.AssemblyReference.cache
+C:\Users\ruben\OneDrive\Desktop\ExpresionesRegulares\ExpresionesRegulares\obj\Debug\ExpresionesRegulares.csproj.CoreCompileInputs.cache
+C:\Users\ruben\OneDrive\Desktop\ExpresionesRegulares\ExpresionesRegulares\obj\Debug\ExpresionesRegulares.exe
+C:\Users\ruben\OneDrive\Desktop\ExpresionesRegulares\ExpresionesRegulares\obj\Debug\ExpresionesRegulares.pdb

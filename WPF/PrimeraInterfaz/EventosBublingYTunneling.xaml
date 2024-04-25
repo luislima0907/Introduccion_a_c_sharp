@@ -1,0 +1,21 @@
+﻿<Window x:Class="PrimeraInterfaz.SegundaVentana"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PrimeraInterfaz"
+        mc:Ignorable="d"
+        Title="SegundaVentana" Height="450" Width="800">
+    <!--Un stack panel es un elemento que apila elementos que agreguemos adentro de el-->
+    <!-- Con esto creamos un evento bubling, de abajo hacia arriba -->
+    <!-- ButtonBase.Click="Panel_Click" -->
+
+    <StackPanel Name="PanelStack" ButtonBase.Click="PanelStack_Click">
+        <Button Content="Dale!" Margin="15" Width="150" HorizontalAlignment="Left"></Button>
+        <Button Content="Dale Dos!" Margin="15" Width="150" HorizontalAlignment="Right"></Button>
+                                                                                <!--La propiedad Click crea un evento 
+                                                                                que cuando le demos click a un boton nos creara un evento
+                                                                                podemos mostrar o hacer cualquier cosa con ese evento-->
+        <Button Content="Dale Tres!" Margin="15" Width="150" HorizontalAlignment="Center" Click="Button_Click"></Button>
+    </StackPanel>
+</Window>

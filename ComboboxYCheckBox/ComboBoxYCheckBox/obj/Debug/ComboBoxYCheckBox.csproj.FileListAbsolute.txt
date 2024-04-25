@@ -1,0 +1,15 @@
+C:\Users\ruben\OneDrive\Desktop\ComboboxYCheckBox\ComboBoxYCheckBox\bin\Debug\ComboBoxYCheckBox.exe.config
+C:\Users\ruben\OneDrive\Desktop\ComboboxYCheckBox\ComboBoxYCheckBox\bin\Debug\ComboBoxYCheckBox.exe
+C:\Users\ruben\OneDrive\Desktop\ComboboxYCheckBox\ComboBoxYCheckBox\bin\Debug\ComboBoxYCheckBox.pdb
+C:\Users\ruben\OneDrive\Desktop\ComboboxYCheckBox\ComboBoxYCheckBox\obj\Debug\ComboBoxYCheckBox.csproj.AssemblyReference.cache
+C:\Users\ruben\OneDrive\Desktop\ComboboxYCheckBox\ComboBoxYCheckBox\obj\Debug\MainWindow.g.cs
+C:\Users\ruben\OneDrive\Desktop\ComboboxYCheckBox\ComboBoxYCheckBox\obj\Debug\App.g.cs
+C:\Users\ruben\OneDrive\Desktop\ComboboxYCheckBox\ComboBoxYCheckBox\obj\Debug\ComboBoxYCheckBox_MarkupCompile.cache
+C:\Users\ruben\OneDrive\Desktop\ComboboxYCheckBox\ComboBoxYCheckBox\obj\Debug\ComboBoxYCheckBox_MarkupCompile.lref
+C:\Users\ruben\OneDrive\Desktop\ComboboxYCheckBox\ComboBoxYCheckBox\obj\Debug\MainWindow.baml
+C:\Users\ruben\OneDrive\Desktop\ComboboxYCheckBox\ComboBoxYCheckBox\obj\Debug\ComboBoxYCheckBox.g.resources
+C:\Users\ruben\OneDrive\Desktop\ComboboxYCheckBox\ComboBoxYCheckBox\obj\Debug\ComboBoxYCheckBox.Properties.Resources.resources
+C:\Users\ruben\OneDrive\Desktop\ComboboxYCheckBox\ComboBoxYCheckBox\obj\Debug\ComboBoxYCheckBox.csproj.GenerateResource.cache
+C:\Users\ruben\OneDrive\Desktop\ComboboxYCheckBox\ComboBoxYCheckBox\obj\Debug\ComboBoxYCheckBox.csproj.CoreCompileInputs.cache
+C:\Users\ruben\OneDrive\Desktop\ComboboxYCheckBox\ComboBoxYCheckBox\obj\Debug\ComboBoxYCheckBox.exe
+C:\Users\ruben\OneDrive\Desktop\ComboboxYCheckBox\ComboBoxYCheckBox\obj\Debug\ComboBoxYCheckBox.pdb

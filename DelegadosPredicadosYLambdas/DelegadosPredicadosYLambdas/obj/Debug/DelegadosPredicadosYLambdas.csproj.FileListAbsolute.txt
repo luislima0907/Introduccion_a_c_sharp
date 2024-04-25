@@ -1,0 +1,7 @@
+C:\Users\ruben\OneDrive\Desktop\DelegadosPredicadosYLambdas\DelegadosPredicadosYLambdas\bin\Debug\DelegadosPredicadosYLambdas.exe.config
+C:\Users\ruben\OneDrive\Desktop\DelegadosPredicadosYLambdas\DelegadosPredicadosYLambdas\bin\Debug\DelegadosPredicadosYLambdas.exe
+C:\Users\ruben\OneDrive\Desktop\DelegadosPredicadosYLambdas\DelegadosPredicadosYLambdas\bin\Debug\DelegadosPredicadosYLambdas.pdb
+C:\Users\ruben\OneDrive\Desktop\DelegadosPredicadosYLambdas\DelegadosPredicadosYLambdas\obj\Debug\DelegadosPredicadosYLambdas.csproj.AssemblyReference.cache
+C:\Users\ruben\OneDrive\Desktop\DelegadosPredicadosYLambdas\DelegadosPredicadosYLambdas\obj\Debug\DelegadosPredicadosYLambdas.csproj.CoreCompileInputs.cache
+C:\Users\ruben\OneDrive\Desktop\DelegadosPredicadosYLambdas\DelegadosPredicadosYLambdas\obj\Debug\DelegadosPredicadosYLambdas.exe
+C:\Users\ruben\OneDrive\Desktop\DelegadosPredicadosYLambdas\DelegadosPredicadosYLambdas\obj\Debug\DelegadosPredicadosYLambdas.pdb

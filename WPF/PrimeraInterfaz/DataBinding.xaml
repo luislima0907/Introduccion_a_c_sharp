@@ -1,0 +1,18 @@
+﻿<Window x:Class="PrimeraInterfaz.DataBinding"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PrimeraInterfaz"
+        mc:Ignorable="d"
+        Title="DataBinding" Height="450" Width="800">
+    <StackPanel>
+        <!--Los binding son una especie de puente para enlazar un elemento con el valor de otro elemento-->
+        <!--OneWay significa que va desde el source(slider) al target(CuadroDeTexto) en este caso-->
+        <!--OneWayToSource es al reves al oneway, va desde el target hasta el source-->
+        <!--OneTime significa que el source se conectara con el target solo una vez cuando lo construimos en codigo-->
+        <!--TwoWay significa que su valor se modifica en los dos al mismo tiempo -->
+        <TextBox Width="100" Name="MiCuadro" Margin="100" Text="{Binding ElementName=MiSlider, Path=Value, Mode=TwoWay}"></TextBox>
+        <Slider Width="350" Name="MiSlider" Minimum="0" Maximum="100"></Slider>
+    </StackPanel>
+</Window>
